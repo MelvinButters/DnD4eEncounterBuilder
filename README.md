@@ -2,9 +2,10 @@
 
 Encounter builder for the 4th Edition Dungeons and Dragons Roleplaying Game.
 
-## Requirements
+## Requirements and Instructions
 
 Requires the .js data files from the DnD4e compendium. Please reach out to contact@dnd4e.com if you need assistance with this.
+Open the EncounterForgeCurrent.html file in a normal browser, and then upload .js files to populate data.
 
 ## Features
 
