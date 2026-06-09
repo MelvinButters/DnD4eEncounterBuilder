@@ -27,11 +27,15 @@ Note that monster level range is used for creating random encounters; if set to 
 - Filter traps by Hazard, Terrain, and Trap  
 - Ascending/Descending filtering via Name, Level, and Role/Type  
 
+<br>
+
 - Create multiple encounters to use throughout a session  
 - Name encounters as required ie 'Ambush', 'Warehouse Fight'  
 - Shows current XP of encounter for balancing  
 - Add 'Encounter Notes' to assist with running the encounter ie 'Goblins start on high ground with crossbows, two pit traps at xyz'  
 - Export Stat Blocks for easy printing if wanting physical option  
+
+<br>
 
 - Random Encounter builder  
 - Creates encounters within XP range with selected monster level range  
@@ -44,7 +48,6 @@ Note that monster level range is used for creating random encounters; if set to 
 - Progress through round via initiative tracker  
 - Add conditions to PCs and Monsters  
 - See statblocks by clicking on monster  
-
 ### Other Features
 
 - Themes; colourbased to update theme as you prefer in settings cog  
