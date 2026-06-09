@@ -38,6 +38,9 @@ Enter Party Level, Party Size, (these two options provide you with the recommend
 
 - Roll initiave for all monsters individually or all at once
 - Add PCs manually, or Load Party from the Standing Party in settings cog
+- Progress through round via initiative tracker
+- Add conditions to PCs and Monsters
+- See statblocks by clicking on monster
 
 ### Other Features
 
