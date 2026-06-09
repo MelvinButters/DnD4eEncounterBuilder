@@ -10,7 +10,7 @@ Requires the .js data files from the DnD4e compendium. Please reach out to conta
 
 ### Encounter Builder
 
-#### Load Monster Library
+#### *Load Monster Library*
 
 Used to import the .js files from the 4th Edition compendium
 
@@ -30,7 +30,7 @@ Enter Party Level, Party Size, (these two options provide you with the recommend
 - Add 'Encounter Notes' to assist with running the encounter ie 'Goblins start on high ground with crossbows, two pit traps at xyz'
 - Export Stat Blocks for easy printing if wanting physical option
 
-#### *Encounter Runner*
+### *Encounter Runner*
 
 - Roll initiave for all monsters individually or all at once
 - Add PCs manually, or Load Party from the Standing Party in settings cog
