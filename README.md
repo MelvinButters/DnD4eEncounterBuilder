@@ -30,6 +30,10 @@ Enter Party Level, Party Size, (these two options provide you with the recommend
 - Add 'Encounter Notes' to assist with running the encounter ie 'Goblins start on high ground with crossbows, two pit traps at xyz'
 - Export Stat Blocks for easy printing if wanting physical option
 
+- Random Encounter builder
+- Creates encounters within XP range with selected monster level range
+- Able to create based on theme ie Fey, Beast, Plan
+
 ### Encounter Runner
 
 - Roll initiave for all monsters individually or all at once
