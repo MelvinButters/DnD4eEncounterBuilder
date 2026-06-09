@@ -55,7 +55,6 @@ Note that monster level range is used for creating random encounters; if set to 
 
 ## Screenshots
 
-![Screenshot](assets/Screenshot%202026-06-09%20142800.png)  
 ![Screenshot](assets/Screenshot%202026-06-09%20143044.png)  
 ![Screenshot](assets/Screenshot%202026-06-09%20143100.png)  
 ![Screenshot](assets/Screenshot%202026-06-09%20143111.png)  
