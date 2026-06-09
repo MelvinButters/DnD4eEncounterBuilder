@@ -46,3 +46,19 @@ Enter Party Level, Party Size, (these two options provide you with the recommend
 
 - Themes; colourbased to update theme as you prefer in settings cog
 - Create, export, and import party via settings cog
+
+## Screenshots
+
+![](assets/Screenshot%202026-06-09%20123305.png)
+
+![](assets/Screenshot%202026-06-09%20123507.png)
+
+![](assets/Screenshot%202026-06-09%20123529.png)
+
+![](assets/Screenshot%202026-06-09%20123537.png)
+
+![](assets/Screenshot%202026-06-09%20123614.png)
+
+![](assets/Screenshot%202026-06-09%20123622.png)
+
+![](assets/Screenshot%202026-06-09%20123823.png)
