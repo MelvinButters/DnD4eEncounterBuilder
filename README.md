@@ -19,11 +19,12 @@ Used to import the .js files from the 4th Edition compendium
 
 Enter Party Level, Party Size, (these two options provide you with the recommended XP allowance, and Monster Level Range (±). Note that monster level range is used for creating random encounters; if set to 1 for example, only monsters either matching, 1 below, or 1 above, will be used when adding random monsters for a randomly genreated encounter.
 
-#### *Monster Browser & Manual Encounter*
+#### *Monster Browser, Trap Browser, & Manual Encounter*
 
-- Searchable via text
-- Filter via role ie Soldier, Brute, Leader
-- Ascending/Descending filtering via Name, Level, and Role
+- Monsters and Traps searchable via text
+- Filter monsters via role ie Soldier, Brute, Leader
+- Filter traps by Hazard, Terrain, and Trap
+- Ascending/Descending filtering via Name, Level, and Role/Type
 
 - Create multiple encounters to use throughout a session
 - Name encounters as required ie 'Ambush', 'Warehouse Fight'
