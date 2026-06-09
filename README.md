@@ -1,4 +1,4 @@
-# DnD4e Encounter Builder
+# DnD4eEncounterBuilder
 
 Encounter builder for the 4th Edition Dungeons and Dragons Roleplaying Game.
 
@@ -8,35 +8,34 @@ Requires the .js data files from the DnD4e compendium. Please reach out to conta
 
 ## Features
 
-### Load Monster Library
+### Encounter Builder
 
-- Import .js files from the 4th Edition Compendium.
+#### Load Monster Library
 
-### Party Configuration
+Used to import the .js files from the 4th Edition compendium
 
-- Enter Party Level and Party Size.
-- Automatically calculates recommended XP allowance.
-- Set Monster Level Range (±) for random encounters.
-- Example: a range of 1 will only use monsters one level above, below, or equal to the party level.
+#### Party Configuration
 
-### Monster Browser & Encounter Builder
+Enter Party Level, Party Size, (these two options provide you with the recommended XP allowance, and Monster Level Range (±). Note that monster level range is used for creating random encounters; if set to 1 for example, only monsters either matching, 1 below, or 1 above, will be used when adding random monsters for a randomly genreated encounter.
 
-- Search monsters by name.
-- Filter by role (Soldier, Brute, Leader, etc.).
-- Sort by Name, Level, or Role.
-- Create multiple encounters for a session.
-- Name encounters (e.g. Ambush, Warehouse Fight).
-- View encounter XP totals for balancing.
-- Add encounter notes.
-- Export stat blocks for printing.
+#### Monster Browser & Manual Encounter
 
-### Encounter Runner
+- Searchable via text
+- Filter via role ie Soldier, Brute, Leader
+- Ascending/Descending filtering via Name, Level, and Role
 
-- Roll initiative for monsters individually or in bulk.
-- Add PCs manually.
-- Load PCs from a saved party.
+- Create multiple encounters to use throughout a session
+- Name encounters as required ie 'Ambush', 'Warehouse Fight'
+- Shows current XP of encounter for balancing
+- Add 'Encounter Notes' to assist with running the encounter ie 'Goblins start on high ground with crossbows, two pit traps at xyz'
+- Export Stat Blocks for easy printing if wanting physical option
 
-### Additional Features
+#### Encounter Runner
 
-- Customisable colour themes.
-- Create, import, and export parties.
+- Roll initiave for all monsters individually or all at once
+- Add PCs manually, or Load Party from the Standing Party in settings cog
+
+### Other Features
+
+- Themes; colourbased to update theme as you prefer in settings cog
+- Create, export, and import party via settings cog
