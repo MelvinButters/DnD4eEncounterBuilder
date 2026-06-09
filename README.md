@@ -30,12 +30,12 @@ Enter Party Level, Party Size, (these two options provide you with the recommend
 - Add 'Encounter Notes' to assist with running the encounter ie 'Goblins start on high ground with crossbows, two pit traps at xyz'
 - Export Stat Blocks for easy printing if wanting physical option
 
-### *Encounter Runner*
+### Encounter Runner
 
 - Roll initiave for all monsters individually or all at once
 - Add PCs manually, or Load Party from the Standing Party in settings cog
 
-### *Other Features*
+### Other Features
 
 - Themes; colourbased to update theme as you prefer in settings cog
 - Create, export, and import party via settings cog
